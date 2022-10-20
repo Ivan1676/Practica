@@ -1,13 +1,14 @@
 +++
 title = "Imágenes con ratios!!!"
 date = 2021-01-10T00:00:00+08:00
-description = "I don't know if is a phase i just wanna feel ok"
-tags = ["bold", "list", "images"]
-aplayer = true
-music = true
+description = "In-post image testpage of Hugo theme Fuji"
+tags = ["images"]
 showLicense = false
+images = true
 weight = 3
 +++
+
+
 
 ## Utilizando fotos de ratio 16x9
 
