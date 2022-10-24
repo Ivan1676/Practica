@@ -8,11 +8,11 @@ images = true
 weight = 3
 +++
 
-
-
 ## Utilizando fotos de ratio 16x9
 
 I am having way to much fun rn!!!!
+
+<!--more-->
 
 {{<img-lazy "16x9" "Alt Pincha en la foto y pasaran cosas" "/aplayer/foto2.png">}}
 <br />
