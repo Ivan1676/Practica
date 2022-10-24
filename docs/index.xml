@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>¡Mi propio portfolio!</title>
+    <link>http://example.org/</link>
+    <description>Recent content on ¡Mi propio portfolio!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aquí puedes ver muchos videos!!!</title>
+      <link>http://example.org/post/videos/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/post/videos/</guid>
+      <description>&lt;p&gt;I just want to see the world burn!!!!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Música con aplayer!!!</title>
+      <link>http://example.org/post/aplayer/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/post/aplayer/</guid>
+      <description>&lt;div class=&#34;post-player-wrapper&#34;&gt;
+  &lt;div
+    class=&#34;post-aplayer&#34;
+    data-base=&#34;http://example.org/&#34;
+    data-urls=&#34;/aplayer/avalanche.mp3&#34;
+    data-names=&#34;Avalanche&#34;
+    data-artists=&#34;Bring Me The Horizon&#34;
+    data-covers=&#34;/aplayer/logo.jpg&#34;
+  &gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This post is for in-post APlayer test, above is previous post-player.&lt;/p&gt;
+&lt;p&gt;Music files are all downloaded from &lt;a href=&#34;https://freemusicarchive.org&#34; target=&#34;_blank&#34;&gt;Free Music Archive&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Imágenes con ratios!!!</title>
+      <link>http://example.org/post/fotos/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/post/fotos/</guid>
+      <description>&lt;h2 id=&#34;utilizando-fotos-de-ratio-16x9&#34;&gt;Utilizando fotos de ratio 16x9&lt;/h2&gt;
+&lt;p&gt;I am having way to much fun rn!!!!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prueba de mermaid!!!</title>
+      <link>http://example.org/post/mermaid/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/post/mermaid/</guid>
+      <description>&lt;script src=&#34;https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+    mermaid.initialize({ 
+        theme: &#39;dark&#39;,
+        themeCSS: &#39;&#39;,
+        cloneCssStyles: false,
+        useMaxWidth: true,
+        htmlLabels: false,
+        flowchart: { 
+                curve: &#39;basis&#39; 
+        }
+    });
+&lt;/script&gt;
+&lt;pre class=&#34;mermaid&#34; align=&#34;left&#34;&gt;
+graph LR;
+    A[Hard edge] --&gt;|Link text| B(Round edge)
+    B --&gt; C{Decision}
+    C --&gt;|One| D[Result one]
+    C --&gt;|Two| E[Result two]
+&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 11 Apr 2020 19:15:32 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hugo makes use of a variety of open source projects including:
+https://github.com/yuin/goldmark https://github.</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://example.org/post/mates/</link>
+      <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/post/mates/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
+&lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34; target=&#34;_blank&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Within this partial reference the &lt;a href=&#34;https://katex.org/docs/autorender.html&#34; target=&#34;_blank&#34;&gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
+&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{ if or .Params.math .Site.Params.math }}
+{{ partial &amp;#34;math.html&amp;#34; . }}
+{{ end }}
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
+&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

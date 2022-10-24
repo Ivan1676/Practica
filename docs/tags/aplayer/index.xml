@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aplayer on ¡Mi propio portfolio!</title>
+    <link>http://example.org/tags/aplayer/</link>
+    <description>Recent content in aplayer on ¡Mi propio portfolio!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="http://example.org/tags/aplayer/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Música con aplayer!!!</title>
+      <link>http://example.org/post/aplayer/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/post/aplayer/</guid>
+      <description>&lt;div class=&#34;post-player-wrapper&#34;&gt;
+  &lt;div
+    class=&#34;post-aplayer&#34;
+    data-base=&#34;http://example.org/&#34;
+    data-urls=&#34;/aplayer/avalanche.mp3&#34;
+    data-names=&#34;Avalanche&#34;
+    data-artists=&#34;Bring Me The Horizon&#34;
+    data-covers=&#34;/aplayer/logo.jpg&#34;
+  &gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;This post is for in-post APlayer test, above is previous post-player.&lt;/p&gt;
+&lt;p&gt;Music files are all downloaded from &lt;a href=&#34;https://freemusicarchive.org&#34; target=&#34;_blank&#34;&gt;Free Music Archive&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

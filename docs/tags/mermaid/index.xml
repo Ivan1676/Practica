@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mermaid on ¡Mi propio portfolio!</title>
+    <link>http://example.org/tags/mermaid/</link>
+    <description>Recent content in mermaid on ¡Mi propio portfolio!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="http://example.org/tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Prueba de mermaid!!!</title>
+      <link>http://example.org/post/mermaid/</link>
+      <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
+      
+      <guid>http://example.org/post/mermaid/</guid>
+      <description>&lt;script src=&#34;https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;&gt;
+    mermaid.initialize({ 
+        theme: &#39;dark&#39;,
+        themeCSS: &#39;&#39;,
+        cloneCssStyles: false,
+        useMaxWidth: true,
+        htmlLabels: false,
+        flowchart: { 
+                curve: &#39;basis&#39; 
+        }
+    });
+&lt;/script&gt;
+&lt;pre class=&#34;mermaid&#34; align=&#34;left&#34;&gt;
+graph LR;
+    A[Hard edge] --&gt;|Link text| B(Round edge)
+    B --&gt; C{Decision}
+    C --&gt;|One| D[Result one]
+    C --&gt;|Two| E[Result two]
+&lt;/pre&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
