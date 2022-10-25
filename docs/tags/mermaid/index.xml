@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mermaid on ¡Mi propio portfolio!</title>
-    <link>ttps://ivan1676.github.io/Practica//tags/mermaid/</link>
+    <link>https://ivan1676.github.io/Practica//tags/mermaid/</link>
     <description>Recent content in mermaid on ¡Mi propio portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="ttps://ivan1676.github.io/Practica//tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://ivan1676.github.io/Practica//tags/mermaid/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prueba de mermaid!!!</title>
-      <link>ttps://ivan1676.github.io/Practica//post/mermaid/</link>
+      <link>https://ivan1676.github.io/Practica//post/mermaid/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//post/mermaid/</guid>
+      <guid>https://ivan1676.github.io/Practica//post/mermaid/</guid>
       <description>&lt;script src=&#34;https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;script type=&#34;text/javascript&#34;&gt;
     mermaid.initialize({ 

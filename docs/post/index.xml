@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on ¡Mi propio portfolio!</title>
-    <link>ttps://ivan1676.github.io/Practica//post/</link>
+    <link>https://ivan1676.github.io/Practica//post/</link>
     <description>Recent content in Posts on ¡Mi propio portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="ttps://ivan1676.github.io/Practica//post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://ivan1676.github.io/Practica//post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aquí puedes ver muchos videos!!!</title>
-      <link>ttps://ivan1676.github.io/Practica//post/videos/</link>
+      <link>https://ivan1676.github.io/Practica//post/videos/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//post/videos/</guid>
+      <guid>https://ivan1676.github.io/Practica//post/videos/</guid>
       <description>&lt;p&gt;I just want to see the world burn!!!!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Música con aplayer!!!</title>
-      <link>ttps://ivan1676.github.io/Practica//post/aplayer/</link>
+      <link>https://ivan1676.github.io/Practica//post/aplayer/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//post/aplayer/</guid>
+      <guid>https://ivan1676.github.io/Practica//post/aplayer/</guid>
       <description>&lt;div class=&#34;post-player-wrapper&#34;&gt;
   &lt;div
     class=&#34;post-aplayer&#34;
-    data-base=&#34;ttps://ivan1676.github.io/Practica//&#34;
+    data-base=&#34;https://ivan1676.github.io/Practica//&#34;
     data-urls=&#34;/aplayer/avalanche.mp3&#34;
     data-names=&#34;Avalanche&#34;
     data-artists=&#34;Bring Me The Horizon&#34;
@@ -39,20 +39,20 @@
     
     <item>
       <title>Imágenes con ratios!!!</title>
-      <link>ttps://ivan1676.github.io/Practica//post/fotos/</link>
+      <link>https://ivan1676.github.io/Practica//post/fotos/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//post/fotos/</guid>
+      <guid>https://ivan1676.github.io/Practica//post/fotos/</guid>
       <description>&lt;h2 id=&#34;utilizando-fotos-de-ratio-16x9&#34;&gt;Utilizando fotos de ratio 16x9&lt;/h2&gt;
 &lt;p&gt;I am having way to much fun rn!!!!&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Prueba de mermaid!!!</title>
-      <link>ttps://ivan1676.github.io/Practica//post/mermaid/</link>
+      <link>https://ivan1676.github.io/Practica//post/mermaid/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//post/mermaid/</guid>
+      <guid>https://ivan1676.github.io/Practica//post/mermaid/</guid>
       <description>&lt;script src=&#34;https://unpkg.com/mermaid@8.1.0/dist/mermaid.min.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
 &lt;script type=&#34;text/javascript&#34;&gt;
     mermaid.initialize({ 
@@ -77,10 +77,10 @@ graph LR;
     
     <item>
       <title>Math Typesetting</title>
-      <link>ttps://ivan1676.github.io/Practica//post/mates/</link>
+      <link>https://ivan1676.github.io/Practica//post/mates/</link>
       <pubDate>Sun, 08 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//post/mates/</guid>
+      <guid>https://ivan1676.github.io/Practica//post/mates/</guid>
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
 &lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34; target=&#34;_blank&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;

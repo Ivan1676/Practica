@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aplayer on ¡Mi propio portfolio!</title>
-    <link>ttps://ivan1676.github.io/Practica//tags/aplayer/</link>
+    <link>https://ivan1676.github.io/Practica//tags/aplayer/</link>
     <description>Recent content in aplayer on ¡Mi propio portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="ttps://ivan1676.github.io/Practica//tags/aplayer/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://ivan1676.github.io/Practica//tags/aplayer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Música con aplayer!!!</title>
-      <link>ttps://ivan1676.github.io/Practica//post/aplayer/</link>
+      <link>https://ivan1676.github.io/Practica//post/aplayer/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//post/aplayer/</guid>
+      <guid>https://ivan1676.github.io/Practica//post/aplayer/</guid>
       <description>&lt;div class=&#34;post-player-wrapper&#34;&gt;
   &lt;div
     class=&#34;post-aplayer&#34;
-    data-base=&#34;ttps://ivan1676.github.io/Practica//&#34;
+    data-base=&#34;https://ivan1676.github.io/Practica//&#34;
     data-urls=&#34;/aplayer/avalanche.mp3&#34;
     data-names=&#34;Avalanche&#34;
     data-artists=&#34;Bring Me The Horizon&#34;

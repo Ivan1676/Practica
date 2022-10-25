@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ¡Mi propio portfolio!</title>
-    <link>ttps://ivan1676.github.io/Practica//tags/</link>
+    <link>https://ivan1676.github.io/Practica//tags/</link>
     <description>Recent content in Tags on ¡Mi propio portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="ttps://ivan1676.github.io/Practica//tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://ivan1676.github.io/Practica//tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aplayer</title>
-      <link>ttps://ivan1676.github.io/Practica//tags/aplayer/</link>
+      <link>https://ivan1676.github.io/Practica//tags/aplayer/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//tags/aplayer/</guid>
+      <guid>https://ivan1676.github.io/Practica//tags/aplayer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>images</title>
-      <link>ttps://ivan1676.github.io/Practica//tags/images/</link>
+      <link>https://ivan1676.github.io/Practica//tags/images/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//tags/images/</guid>
+      <guid>https://ivan1676.github.io/Practica//tags/images/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mermaid</title>
-      <link>ttps://ivan1676.github.io/Practica//tags/mermaid/</link>
+      <link>https://ivan1676.github.io/Practica//tags/mermaid/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//tags/mermaid/</guid>
+      <guid>https://ivan1676.github.io/Practica//tags/mermaid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>music</title>
-      <link>ttps://ivan1676.github.io/Practica//tags/music/</link>
+      <link>https://ivan1676.github.io/Practica//tags/music/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//tags/music/</guid>
+      <guid>https://ivan1676.github.io/Practica//tags/music/</guid>
       <description></description>
     </item>
     
     <item>
       <title>video</title>
-      <link>ttps://ivan1676.github.io/Practica//tags/video/</link>
+      <link>https://ivan1676.github.io/Practica//tags/video/</link>
       <pubDate>Sun, 10 Jan 2021 00:00:00 +0800</pubDate>
       
-      <guid>ttps://ivan1676.github.io/Practica//tags/video/</guid>
+      <guid>https://ivan1676.github.io/Practica//tags/video/</guid>
       <description></description>
     </item>
     
