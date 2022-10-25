@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on ¡Mi propio portfolio!</title>
-    <link>http://example.org/archives/</link>
+    <link>ttps://ivan1676.github.io/Practica//archives/</link>
     <description>Recent content in Archives on ¡Mi propio portfolio!</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="ttps://ivan1676.github.io/Practica//archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
